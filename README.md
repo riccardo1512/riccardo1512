@@ -58,6 +58,5 @@ Outside of day-to-day engineering, I actively participate in national **Cybersec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riccardo1512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Riccardo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riccardo1512&theme=tokyonight&hide_border=true" height="150" alt="Riccardo's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riccardo1512&theme=radical" alt="Riccardo's GitHub streak" />
 </div>
